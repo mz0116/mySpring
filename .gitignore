@@ -1,0 +1,14 @@
+.idea
+*.DS_Store
+.project
+nbproject
+sitemap.html
+sitemap.xml
+application/libraries/wxjssdk/access_token.json
+application/libraries/wxjssdk/jsapi_ticket.json
+application/logs
+application/config/development/*
+application/cache/*
+static/icq/resources/upload/*
+static/icq/resources/ctf/*
+static/icq/resources/fonts/.font-spider/*
